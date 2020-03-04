@@ -1,2 +1,3 @@
 # Dell
-Proyecto Gestión de la calidad de software
+Proyecto de curso 
+Gestión de la calidad de software
